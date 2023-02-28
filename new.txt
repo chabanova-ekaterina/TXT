@@ -1,0 +1,4 @@
+firstName Katy
+age 123
+pet 321
+salary 2000
