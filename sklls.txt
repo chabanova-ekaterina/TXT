@@ -1,0 +1,14 @@
+soft_skill:
+  team_player
+	creativity
+	motivatad
+	communication
+	flexibility
+
+hard_skill:
+  JavaScript
+  System_Development_Lifecycle_(SDLC)
+  Hypertext_Markup_Language_(HTML)
+  Cascading_Style_Sheets_(CSS)
+  Postman
+  Jira

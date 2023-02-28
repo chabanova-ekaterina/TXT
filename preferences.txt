@@ -1,0 +1,6 @@
+ceries friends
+movie star wars
+food pasta
+season spring
+country_1 canada
+country_2 usa
