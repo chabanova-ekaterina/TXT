@@ -1,6 +1,9 @@
 # TXT
 
 <h1 align="center">This repository contains files with examples of writing in TXT format</h1>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=14VQoa_BC9Av2V13YyN7l5lGre2XAgRyW"  title="TXT" alt="TXT" width="60" height="80"/>&nbsp;
+</div>
 
 ```
 ID: BR-6
