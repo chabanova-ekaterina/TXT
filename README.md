@@ -11,11 +11,11 @@
 
 ```
 ID: BR-6
-Title: Slider in the banner under the graph when combined"
-Severity: Minor"
-Priority: Low"
-Precondition: Open the site on the main page, Scroll to the Trading calculator"
-Environment: OS: Windows 10 Pro 19042.1415; Chrome 109.0.5414.120"
+Title: Slider in the banner under the graph when combined
+Severity: Minor
+Priority: Low
+Precondition: Open the site on the main page, Scroll to the Trading calculator
+Environment: OS: Windows 10 Pro 19042.1415; Chrome 109.0.5414.120
 STR (Steps to restore):
                         1. Set the left slider in an arbitrary place, except for the leftmost position
                         2. Move the right slider to it
